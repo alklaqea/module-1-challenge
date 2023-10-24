@@ -97,29 +97,29 @@ https://www.crunchbase.com/organization/binance/company_financials
 ### business activities
 https://www.wsj.com/finance/binance-cryptocurrency-russia-sanctions-ddb948c3
 
-market
+Market
 https://www.bankrate.com/investing/cryptocurrency-statistics/#:~:text=Cryptocurrency%20statistics%3A%20Investors%20and%20demographics,round%20out%20the%20top%20three.
 
-why its better
+Why its better
 https://www.binance.com/en/feed/post/1288538
 https://www.binance.com/en/feed/post/448884
 
 ### landscape
-trends
+Trends
 https://www.forbes.com/advisor/investing/cryptocurrency/defi-decentralized-finance/
 
-nft
+Nft
 https://usa.kaspersky.com/resource-center/definitions/what-is-an-nft#:~:text=NFTs%20are%20tokens%20used%20to,collectibles%2C%20or%20even%20real%20estate.
 
-stablecoin
+Stablecoin
 https://www.coindesk.com/learn/what-is-a-stablecoin/
 
-major companies
+Major companies
 https://www.g2.com/products/binance/competitors/alternatives
 
 ### result
 company impact
 https://medium.com/coinmonks/analysis-a-binance-listing-adds-41-on-crypto-prices-2f6cd72e8dff#:~:text=In%20most%20cases%2C%20a%20Binance,varies%20from%20project%20to%20project.
 
-measuring success
+Measuring success
 https://www.linkedin.com/advice/3/how-do-you-measure-blockchain-project-success#:~:text=Measuring%20the%20success%20of%20a%20blockchain%20project%20involves%20assessing%20technical,transparency%20improvements%20are%20key%20indicators.
