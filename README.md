@@ -40,7 +40,7 @@ ___
 ***
 
 Binance uses blockchain technology and Dual Chain Architecture for its BNB token.
-"Binance Smart Chain is a blockchain network launched by Binance on September 2020. It is designed to be a high-performance blockchain that is compatible with the Ethereum Virtual Machine and supports smart contracts." Dual Chain Architecture was created to eliminate the flaws of the blockchain system. Binance sSmart Chain is built on proof of stake and dual chain architecture which allows it to provide faster transaction speeds and low transaction costs.
+"Binance Smart Chain is a blockchain network launched by Binance on September 2020. It is designed to be a high-performance blockchain that is compatible with the Ethereum Virtual Machine and supports smart contracts." Dual Chain Architecture was created to eliminate the flaws of the blockchain system. Binance Smart Chain is built on proof of stake and dual chain architecture which allows it to provide faster transaction speeds and low transaction costs.
 
 ## Landscape
 
